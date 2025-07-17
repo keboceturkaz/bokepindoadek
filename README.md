@@ -1,2 +1,1 @@
-# bokepindoadek
-bokepindoadek
+# [bokepindoadek](https://bokepindoadek.pages.dev)
